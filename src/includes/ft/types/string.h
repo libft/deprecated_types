@@ -10,9 +10,9 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef MAIN_H
-# define MAIN_H
+#ifndef STRING_H
+# define STRING_H
 
-int	main(void);
+typedef char	*t_string;
 
 #endif

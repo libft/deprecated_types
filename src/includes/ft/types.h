@@ -10,9 +10,11 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef MAIN_H
-# define MAIN_H
+#ifndef TYPES_H
+# define TYPES_H
 
-int	main(void);
+# include "types/bool.h"
+# include "types/int.h"
+# include "types/string.h"
 
 #endif

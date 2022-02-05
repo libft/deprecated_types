@@ -10,9 +10,11 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef MAIN_H
-# define MAIN_H
+#ifndef BOOL_H
+# define BOOL_H
 
-int	main(void);
+# include <stdbool.h>
+
+typedef bool	t_bool;
 
 #endif
